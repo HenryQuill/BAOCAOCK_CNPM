@@ -1,0 +1,40 @@
+C:\Users\ASUS\source\repos\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\ASUS\source\repos\BookStore\bin\Debug\BookStore.exe
+C:\Users\ASUS\source\repos\BookStore\bin\Debug\BookStore.pdb
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.exe
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.pdb
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.Home.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.UserControls.UC_ACCOUNT.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.UserControls.UC_SELL.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.UserControls.UC_STORAGE.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.UserControls.UC_PURCHASE.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.add.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.ChangePassword.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.UserControls.UC_Home.resources
+C:\Users\ASUS\source\repos\BookStore\obj\Debug\BookStore.UserControls.UC_Purchase2.resources
+E:\baitap\Cong nghe phan mem\BookStore\bin\Debug\BookStore.exe.config
+E:\baitap\Cong nghe phan mem\BookStore\bin\Debug\BookStore.exe
+E:\baitap\Cong nghe phan mem\BookStore\bin\Debug\BookStore.pdb
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.csproj.SuggestedBindingRedirects.cache
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.add.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.ChangePassword.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.Home.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.Login.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.UserControls.UC_ACCOUNT.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.UserControls.UC_Home.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.UserControls.UC_PURCHASE.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.UserControls.UC_Purchase2.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.UserControls.UC_SELL.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.UserControls.UC_STORAGE.resources
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.exe
+E:\baitap\Cong nghe phan mem\BookStore\obj\Debug\BookStore.pdb
